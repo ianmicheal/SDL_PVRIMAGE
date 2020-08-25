@@ -1,4 +1,4 @@
-# SDL_PVRIMAGE
+# SDL_PVRIMAGE For KOS2.0/KOS1.3
 Modded example of SDL_image for dreamcast that can use PVR video format
 <img src="./theme.jpg">  
 Using pvr image not bmp saves a lot of ram 
