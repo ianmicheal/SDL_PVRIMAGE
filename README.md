@@ -1,5 +1,7 @@
 # SDL_PVRIMAGE
 Modded example of SDL_image for dreamcast that can use PVR video format
+<img src="./theme.jpg">  
+Using pvr image not bmp saves a lot of ram 
 Based on //
 //  SegaPVRImage.h
 //  SEGAPVR
