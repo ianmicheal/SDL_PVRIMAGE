@@ -1,4 +1,5 @@
-# SDL_PVRIMAGE For KOS2.0/KOS1.3
+# SDL_PVRIMAGE For KOS2.0/KOS1.3  Update now works from romsdisk the example included image.pvr
+tested on dreamsdk3.0
 Based on // and dreamshell
 //  SegaPVRImage.h
 //  SEGAPVR
